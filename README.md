@@ -29,5 +29,3 @@ Relational Database Administration
 - JAVASCRIPT
 - MYSQL
 - PYTHON (FLASK - DJANGO)
-
-Translated with DeepL.com (free version)
