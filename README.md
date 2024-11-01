@@ -28,4 +28,7 @@ Relational Database Administration
 - CSS
 - JAVASCRIPT
 - MYSQL
-- PYTHON (FLASK - DJANGO)
+- PYTHON (FLASK)
+- JAVA
+- RUBY
+- DART
