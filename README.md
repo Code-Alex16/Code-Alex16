@@ -24,11 +24,9 @@ web development - Backend
 Relational Database Administration
 
 **tools**:
-- HTML 
-- CSS
+- HTML and CSS
 - JAVASCRIPT
-- MYSQL
-- PYTHON (FLASK)
-- JAVA
-- RUBY
+- MySQL and PostgreSQL 
+- PYTHON (FLASK, Django)
+- JAVA (SpringBoot basic)
 - DART
