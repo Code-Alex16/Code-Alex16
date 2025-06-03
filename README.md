@@ -24,11 +24,9 @@ web development - Backend
 Relational Database Administration
 
 **Tecnologias**:
-### Built With
-* [![React][React.js]][React-url]
-* [![HTML][Html.com]][Html-url]
-* [![Css][Css.com]][Css-url]
-* [![Flask][Flask.com]][Flask-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![SpringBoot][Springboot.com]][SpringBoot-url]
-* [![Dart][Dart.com]][Dart-url]
+* Html and Css
+* Javascript
+* React
+* Java backend development with SpringBoot
+* Python backend development with flask and Django
+* Dart - Flutter
