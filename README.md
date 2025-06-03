@@ -1,4 +1,4 @@
-## Hi there, Welcome 👋
+## Hola me llamo Alexander 👋
 
 <!--
 **Code-Alex16/Code-Alex16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,10 +23,12 @@ My interests are backend development and database administration, I like to stud
 web development - Backend
 Relational Database Administration
 
-**tools**:
-- HTML and CSS
-- JAVASCRIPT
-- MySQL and PostgreSQL 
-- PYTHON (FLASK, Django)
-- JAVA (SpringBoot basic)
-- DART
+**Tecnologias**:
+### Built With
+* [![React][React.js]][React-url]
+* [![HTML][Html.com]][Html-url]
+* [![Css][Css.com]][Css-url]
+* [![Flask][Flask.com]][Flask-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![SpringBoot][Springboot.com]][SpringBoot-url]
+* [![Dart][Dart.com]][Dart-url]
